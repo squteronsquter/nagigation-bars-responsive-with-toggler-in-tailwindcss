@@ -13,6 +13,6 @@ npm run dev
 Use Live Server (VS Code extension) to view your website on local host in your default browser.
 
 
-## Remember to copy the javaScript File to the dist folder or link it otherwise 
+## Remember to copy the JavaScript file to the dist folder or link it otherwise. 
 
 _Happy Coding_
